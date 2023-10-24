@@ -1,6 +1,6 @@
 # retention-policy-azure-storage-account
 retention-policy-azure-storage-account
-
+### Append this policy to the Azure storage account "Lifecycle Management" section
 
 ```
 {
